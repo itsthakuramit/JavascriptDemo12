@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "id": "401",
+      "customername": "eBay",
+      "emailid": "admin@ebaycorp.com"
+    },
+    {
+      "id": 501,
+      "customername": "HCL corporation",
+      "emailid": "contactus@hclcorp.com"
+    }
+  ]
+}
